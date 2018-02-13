@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "250281458626",
+    "firebase_url": "https://hackathons-b50b6.firebaseio.com",
+    "project_id": "hackathons-b50b6",
+    "storage_bucket": "hackathons-b50b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250281458626:android:b91f206e0490220d",
+        "android_client_info": {
+          "package_name": "com.example.humraz.nakshatra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250281458626-m1um8jc6rjkn627d025t0k93kbnbh552.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ33OuZj0KNf8yJg--_2eiqVl2pr7uYUY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250281458626:android:d16c07a3aa9785e3",
+        "android_client_info": {
+          "package_name": "com.example.humraz.teckshetraada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250281458626-m1um8jc6rjkn627d025t0k93kbnbh552.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ33OuZj0KNf8yJg--_2eiqVl2pr7uYUY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
